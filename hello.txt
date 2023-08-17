@@ -1,5 +1,2 @@
 Testing
 123
-Rubah 1
-Rubah 2
-Rubah 3
